@@ -1,0 +1,1001 @@
+Date,Area,Road Name,Traffic Volume,Average Speed (km/h),Road Capacity (%),Accidents Count,Weather
+02-02-2024,Jayanagar,Flyover Road,56606,48,84,4,Rainy
+16-02-2024,Indiranagar,Junction Road,16571,55,46,0,Overcast
+10-01-2024,Indiranagar,Flyover Road,38786,63,55,1,Rainy
+23-02-2024,MG Road,Flyover Road,52502,25,72,5,Clear
+26-02-2024,Koramangala,Main Road,41307,38,83,3,Rainy
+09-02-2024,Jayanagar,High Street,59693,49,61,1,Clear
+03-02-2024,Jayanagar,Junction Road,29471,37,65,2,Fog
+26-02-2024,Hebbal,Ring Road,46609,29,81,4,Fog
+25-02-2024,Indiranagar,Junction Road,65290,67,93,1,Fog
+21-02-2024,Indiranagar,Flyover Road,27615,62,68,4,Overcast
+29-01-2024,Koramangala,Bypass Road,41458,50,79,3,Rainy
+23-02-2024,Whitefield,Junction Road,56676,32,75,1,Fog
+15-01-2024,Hebbal,Main Road,61164,49,62,5,Clear
+11-02-2024,Indiranagar,Flyover Road,32645,28,56,0,Fog
+07-02-2024,Koramangala,Ring Road,17128,34,62,2,Rainy
+28-02-2024,Jayanagar,Ring Road,22617,70,73,0,Rainy
+18-01-2024,MG Road,Bypass Road,18689,23,52,1,Overcast
+05-01-2024,Koramangala,Bypass Road,35957,55,97,1,Rainy
+09-01-2024,Indiranagar,Bypass Road,68814,54,94,0,Clear
+22-01-2024,MG Road,Main Road,54571,48,53,4,Fog
+10-01-2024,Jayanagar,Bypass Road,55797,50,47,2,Overcast
+01-02-2024,Whitefield,High Street,60030,29,78,1,Overcast
+24-01-2024,Koramangala,Flyover Road,37882,69,96,4,Rainy
+01-01-2024,MG Road,High Street,41997,64,57,1,Fog
+19-02-2024,Koramangala,Bypass Road,52387,63,94,4,Clear
+21-01-2024,Whitefield,Main Road,54402,45,43,2,Clear
+03-01-2024,MG Road,Ring Road,54832,65,91,4,Overcast
+22-02-2024,Indiranagar,Bypass Road,60625,43,87,4,Fog
+16-02-2024,Hebbal,Junction Road,56407,56,46,1,Rainy
+19-02-2024,Koramangala,High Street,30166,37,45,1,Clear
+20-01-2024,Jayanagar,Main Road,40888,55,72,4,Rainy
+22-02-2024,Hebbal,Main Road,29735,28,76,5,Clear
+05-02-2024,Koramangala,Junction Road,29669,68,42,2,Rainy
+11-02-2024,Koramangala,Junction Road,54746,30,99,4,Rainy
+27-02-2024,Koramangala,Flyover Road,43461,63,88,0,Fog
+22-02-2024,Whitefield,Junction Road,54354,22,94,3,Clear
+05-01-2024,Indiranagar,High Street,61353,24,72,1,Rainy
+01-01-2024,Whitefield,Main Road,23354,62,90,1,Rainy
+02-02-2024,Indiranagar,Ring Road,15232,48,69,2,Clear
+05-01-2024,Whitefield,Main Road,21087,69,100,4,Clear
+09-01-2024,Jayanagar,Ring Road,44208,28,86,4,Rainy
+13-01-2024,Indiranagar,Main Road,54916,64,70,4,Rainy
+08-02-2024,Koramangala,Main Road,26079,49,89,3,Overcast
+23-01-2024,Jayanagar,Main Road,31416,59,89,4,Clear
+06-02-2024,Koramangala,High Street,29442,52,43,4,Rainy
+09-01-2024,Koramangala,Ring Road,65010,29,54,1,Rainy
+24-02-2024,MG Road,Bypass Road,57998,38,51,5,Overcast
+03-02-2024,MG Road,Junction Road,63692,63,75,3,Rainy
+31-01-2024,Koramangala,Flyover Road,58033,24,69,2,Clear
+02-02-2024,Whitefield,High Street,35715,25,98,1,Rainy
+02-01-2024,Koramangala,Ring Road,58561,38,45,2,Clear
+26-02-2024,MG Road,Junction Road,34326,26,80,2,Fog
+16-01-2024,Hebbal,Main Road,43675,39,92,3,Fog
+13-02-2024,MG Road,Main Road,45465,63,96,1,Rainy
+08-01-2024,Jayanagar,Junction Road,38875,47,88,3,Clear
+06-02-2024,Jayanagar,Bypass Road,59418,65,81,2,Clear
+04-02-2024,MG Road,Bypass Road,36797,61,66,3,Clear
+10-02-2024,Jayanagar,High Street,60705,20,61,0,Overcast
+18-01-2024,Whitefield,Ring Road,18595,32,73,2,Clear
+01-01-2024,Hebbal,Ring Road,38359,69,62,5,Fog
+30-01-2024,Jayanagar,Ring Road,60115,59,86,1,Rainy
+04-02-2024,Koramangala,Flyover Road,50286,41,54,0,Rainy
+04-01-2024,MG Road,High Street,37150,35,65,5,Fog
+11-01-2024,Jayanagar,Junction Road,31851,57,46,0,Fog
+05-01-2024,Indiranagar,Flyover Road,29659,37,40,3,Clear
+01-01-2024,MG Road,Bypass Road,31782,43,49,1,Rainy
+13-02-2024,Jayanagar,Bypass Road,60268,38,40,4,Overcast
+03-01-2024,Jayanagar,High Street,29990,70,90,3,Rainy
+31-01-2024,Koramangala,High Street,48851,46,40,1,Clear
+14-02-2024,MG Road,Bypass Road,62918,47,56,1,Clear
+02-01-2024,Koramangala,Bypass Road,35366,31,96,5,Clear
+17-01-2024,Hebbal,Ring Road,48450,62,83,0,Fog
+21-01-2024,Jayanagar,Bypass Road,38550,39,49,0,Fog
+13-02-2024,Whitefield,Main Road,16182,35,97,2,Rainy
+30-01-2024,Koramangala,Flyover Road,56418,25,53,5,Clear
+16-01-2024,Jayanagar,Junction Road,55679,56,64,2,Rainy
+14-01-2024,MG Road,Junction Road,31568,63,42,2,Overcast
+20-02-2024,Jayanagar,Flyover Road,40737,40,96,2,Clear
+15-02-2024,Hebbal,Flyover Road,29322,31,44,5,Overcast
+14-02-2024,Hebbal,Main Road,49399,25,69,2,Fog
+21-02-2024,Hebbal,Bypass Road,36078,66,96,2,Rainy
+01-01-2024,Indiranagar,Main Road,23458,20,53,0,Rainy
+04-02-2024,Whitefield,Junction Road,24872,29,67,0,Clear
+19-02-2024,Hebbal,Bypass Road,17604,30,54,4,Rainy
+02-02-2024,MG Road,Main Road,45298,29,66,4,Rainy
+02-02-2024,Whitefield,Junction Road,67611,21,55,3,Clear
+01-03-2024,MG Road,Ring Road,65552,54,46,5,Fog
+06-02-2024,Indiranagar,Bypass Road,49251,63,58,3,Rainy
+25-02-2024,Whitefield,Main Road,33050,35,47,4,Clear
+29-01-2024,Whitefield,Bypass Road,44840,24,83,5,Clear
+25-01-2024,Hebbal,Junction Road,20948,45,61,3,Rainy
+13-01-2024,MG Road,Junction Road,24707,42,50,4,Clear
+31-01-2024,Jayanagar,Junction Road,38712,54,70,1,Clear
+23-01-2024,Hebbal,High Street,58366,70,97,3,Rainy
+25-01-2024,MG Road,Flyover Road,40123,45,57,4,Rainy
+16-01-2024,Koramangala,High Street,55880,25,66,3,Fog
+13-02-2024,MG Road,Main Road,31606,53,96,1,Overcast
+26-02-2024,Hebbal,Junction Road,18763,23,54,0,Overcast
+04-02-2024,Whitefield,Main Road,31553,37,83,3,Rainy
+19-01-2024,Whitefield,High Street,61532,43,46,4,Fog
+26-02-2024,Indiranagar,Main Road,15049,20,56,4,Clear
+13-02-2024,Hebbal,Junction Road,51981,24,74,3,Fog
+27-02-2024,Hebbal,High Street,52289,66,62,0,Clear
+29-01-2024,Hebbal,Flyover Road,36681,23,85,2,Overcast
+05-01-2024,Whitefield,High Street,46752,34,85,5,Overcast
+16-01-2024,Jayanagar,High Street,65703,22,86,1,Fog
+09-02-2024,Hebbal,High Street,62716,33,99,2,Overcast
+17-02-2024,Koramangala,Bypass Road,42483,20,45,5,Fog
+02-02-2024,Jayanagar,Ring Road,33312,38,99,5,Overcast
+20-01-2024,MG Road,Flyover Road,51693,28,59,2,Overcast
+22-01-2024,Whitefield,Main Road,29426,24,48,2,Fog
+05-01-2024,Jayanagar,Flyover Road,35888,27,75,0,Overcast
+10-01-2024,Indiranagar,Flyover Road,22037,47,51,4,Clear
+05-01-2024,Indiranagar,High Street,18029,63,61,4,Overcast
+02-01-2024,Jayanagar,Ring Road,16516,69,77,5,Rainy
+13-02-2024,MG Road,Flyover Road,16406,40,72,3,Overcast
+22-01-2024,Indiranagar,Bypass Road,66892,54,59,3,Rainy
+28-02-2024,Jayanagar,Flyover Road,35297,30,62,1,Overcast
+16-01-2024,Hebbal,Junction Road,57580,58,45,5,Rainy
+09-01-2024,Hebbal,Bypass Road,42682,31,45,1,Fog
+23-01-2024,Jayanagar,High Street,66543,38,99,2,Overcast
+06-02-2024,Whitefield,Ring Road,47750,49,51,3,Overcast
+12-02-2024,Hebbal,High Street,15600,62,63,1,Rainy
+09-02-2024,Whitefield,High Street,57594,23,54,5,Rainy
+24-02-2024,Jayanagar,Flyover Road,60951,41,42,5,Clear
+11-01-2024,Koramangala,Bypass Road,20228,32,54,5,Overcast
+25-01-2024,Indiranagar,Flyover Road,61636,45,87,3,Rainy
+11-02-2024,Jayanagar,Ring Road,48512,52,74,2,Clear
+06-02-2024,Indiranagar,Main Road,25557,65,48,5,Overcast
+06-02-2024,Whitefield,Main Road,68091,63,63,2,Clear
+04-01-2024,Jayanagar,Main Road,59128,56,64,4,Fog
+06-02-2024,Hebbal,Main Road,54301,49,47,1,Rainy
+11-02-2024,Hebbal,Main Road,38685,52,64,3,Clear
+25-02-2024,Indiranagar,Main Road,43088,54,93,1,Clear
+06-02-2024,Jayanagar,Flyover Road,18433,41,93,4,Overcast
+01-03-2024,Koramangala,Bypass Road,18585,39,87,4,Clear
+07-01-2024,MG Road,Flyover Road,54879,52,44,5,Clear
+18-01-2024,Indiranagar,Junction Road,34901,52,89,5,Rainy
+14-02-2024,Koramangala,Ring Road,39354,38,43,5,Clear
+20-02-2024,MG Road,High Street,26378,20,68,3,Rainy
+09-01-2024,Whitefield,Bypass Road,30357,22,79,1,Overcast
+16-01-2024,Hebbal,Main Road,64337,41,70,1,Fog
+15-02-2024,Koramangala,Junction Road,36802,27,93,0,Fog
+17-01-2024,Indiranagar,Main Road,37857,23,82,1,Clear
+25-02-2024,Indiranagar,High Street,56517,28,88,5,Overcast
+01-03-2024,Whitefield,Junction Road,62524,42,69,4,Overcast
+27-02-2024,Indiranagar,Junction Road,46422,38,49,3,Clear
+25-02-2024,Indiranagar,High Street,36482,64,86,1,Clear
+12-01-2024,Whitefield,High Street,17988,47,56,4,Rainy
+23-02-2024,Whitefield,Junction Road,55924,35,79,5,Overcast
+03-01-2024,MG Road,Ring Road,45976,60,97,4,Rainy
+28-02-2024,Koramangala,High Street,54685,51,41,0,Fog
+01-03-2024,Indiranagar,Flyover Road,27786,38,98,2,Fog
+24-02-2024,Jayanagar,Main Road,16687,43,76,3,Clear
+13-02-2024,Indiranagar,Main Road,27274,40,52,0,Fog
+05-01-2024,Koramangala,Flyover Road,63673,64,93,2,Fog
+04-02-2024,Hebbal,Junction Road,49840,47,49,3,Clear
+04-02-2024,Whitefield,Junction Road,40563,69,47,0,Clear
+25-02-2024,Jayanagar,Main Road,61358,20,40,4,Rainy
+24-01-2024,Hebbal,Junction Road,38727,52,100,2,Rainy
+26-02-2024,Koramangala,Bypass Road,59853,29,93,1,Clear
+04-01-2024,Whitefield,Main Road,34247,33,67,5,Rainy
+04-01-2024,Koramangala,Flyover Road,21060,69,98,4,Fog
+20-02-2024,Koramangala,Ring Road,52681,42,50,2,Overcast
+16-01-2024,Hebbal,Main Road,44757,26,57,3,Fog
+24-01-2024,Hebbal,Bypass Road,37128,24,72,4,Rainy
+10-01-2024,Hebbal,Ring Road,69974,51,66,4,Overcast
+18-01-2024,Koramangala,Bypass Road,22091,49,74,0,Overcast
+25-01-2024,Koramangala,Bypass Road,25175,57,93,1,Overcast
+06-01-2024,Whitefield,Bypass Road,48338,30,84,0,Clear
+16-01-2024,Jayanagar,High Street,34764,54,68,4,Overcast
+16-01-2024,MG Road,Main Road,33283,55,67,3,Overcast
+03-01-2024,Jayanagar,Junction Road,22609,42,96,2,Fog
+01-03-2024,MG Road,Main Road,58163,33,93,5,Fog
+17-02-2024,Hebbal,High Street,35929,40,43,2,Clear
+10-02-2024,Whitefield,Main Road,17638,55,57,2,Overcast
+05-01-2024,Indiranagar,Main Road,62483,62,54,5,Clear
+16-02-2024,Hebbal,Main Road,67494,54,79,3,Clear
+10-01-2024,Koramangala,Flyover Road,65459,34,66,2,Overcast
+21-02-2024,Indiranagar,Ring Road,31431,43,56,1,Clear
+17-01-2024,Indiranagar,Junction Road,63163,40,82,1,Rainy
+12-01-2024,Whitefield,Flyover Road,47904,29,66,3,Fog
+22-01-2024,MG Road,Junction Road,57344,26,84,2,Clear
+29-01-2024,Whitefield,Main Road,31077,28,52,5,Clear
+18-02-2024,MG Road,Main Road,24190,35,71,0,Overcast
+04-01-2024,Whitefield,Junction Road,53563,66,79,1,Clear
+22-02-2024,Whitefield,Flyover Road,59878,56,70,2,Fog
+07-02-2024,Koramangala,High Street,66030,26,70,4,Clear
+22-01-2024,Indiranagar,Bypass Road,47386,41,76,5,Fog
+27-02-2024,Whitefield,Bypass Road,68256,68,83,2,Clear
+16-02-2024,MG Road,Ring Road,18605,66,61,2,Fog
+11-01-2024,Whitefield,High Street,40401,40,58,1,Clear
+12-01-2024,Whitefield,Junction Road,33936,39,65,1,Fog
+03-01-2024,Indiranagar,Bypass Road,34037,44,84,3,Clear
+10-02-2024,Koramangala,High Street,29091,47,40,5,Fog
+19-02-2024,Indiranagar,Main Road,35324,70,78,4,Clear
+16-01-2024,Indiranagar,Bypass Road,47076,25,54,3,Overcast
+18-02-2024,MG Road,High Street,22181,65,55,2,Rainy
+15-01-2024,Koramangala,Ring Road,62307,52,41,2,Clear
+10-01-2024,Hebbal,Main Road,56752,32,80,1,Clear
+20-02-2024,Whitefield,Main Road,58573,32,91,2,Fog
+30-01-2024,MG Road,High Street,24790,36,80,2,Fog
+07-02-2024,Whitefield,Ring Road,34314,26,99,2,Clear
+27-02-2024,Hebbal,Flyover Road,40646,67,50,0,Fog
+07-01-2024,Whitefield,Main Road,39072,20,72,1,Fog
+20-02-2024,Koramangala,Main Road,55814,64,59,4,Rainy
+19-02-2024,MG Road,Junction Road,68583,66,46,0,Fog
+10-01-2024,Koramangala,High Street,23946,60,84,5,Clear
+18-02-2024,Koramangala,Bypass Road,35933,24,42,5,Overcast
+26-01-2024,MG Road,Ring Road,36331,39,76,2,Fog
+02-01-2024,Hebbal,Flyover Road,44523,47,61,2,Overcast
+14-02-2024,Koramangala,Ring Road,45823,60,79,4,Overcast
+03-01-2024,MG Road,Ring Road,34776,43,63,2,Overcast
+02-01-2024,MG Road,High Street,31953,24,99,5,Rainy
+31-01-2024,Koramangala,Ring Road,19854,41,49,5,Rainy
+13-02-2024,Koramangala,Flyover Road,45928,68,87,0,Clear
+24-02-2024,Hebbal,Main Road,60181,42,60,3,Rainy
+30-01-2024,MG Road,Main Road,54645,35,93,1,Overcast
+09-02-2024,Whitefield,Flyover Road,51003,46,92,5,Overcast
+04-01-2024,Koramangala,Bypass Road,23664,26,91,2,Clear
+26-01-2024,Jayanagar,High Street,46067,30,43,4,Fog
+05-01-2024,Koramangala,Flyover Road,23045,56,89,3,Clear
+19-01-2024,Koramangala,Bypass Road,28866,21,74,3,Clear
+24-01-2024,Hebbal,Main Road,19330,24,69,5,Rainy
+10-01-2024,MG Road,Main Road,45299,41,71,2,Rainy
+17-01-2024,Jayanagar,Junction Road,18942,57,89,2,Overcast
+02-01-2024,Jayanagar,Ring Road,68100,36,100,2,Rainy
+07-02-2024,Indiranagar,Main Road,57176,43,51,1,Rainy
+27-01-2024,Hebbal,Main Road,67293,47,84,3,Clear
+03-02-2024,Indiranagar,Main Road,16678,47,93,5,Clear
+17-01-2024,Indiranagar,High Street,60251,28,57,4,Overcast
+24-02-2024,Hebbal,Junction Road,48140,49,58,4,Rainy
+28-02-2024,Hebbal,Main Road,15306,56,71,2,Overcast
+22-01-2024,Whitefield,High Street,23163,62,53,0,Rainy
+25-02-2024,Koramangala,Ring Road,48557,41,50,1,Fog
+19-02-2024,Whitefield,Ring Road,19731,54,78,4,Clear
+06-01-2024,Indiranagar,Ring Road,16399,28,95,2,Overcast
+13-01-2024,Indiranagar,Main Road,17995,36,50,2,Overcast
+28-02-2024,MG Road,Ring Road,56818,60,63,0,Fog
+30-01-2024,Indiranagar,Junction Road,39020,41,48,2,Rainy
+09-02-2024,MG Road,Junction Road,59300,29,48,5,Clear
+03-02-2024,Whitefield,Junction Road,56283,62,49,3,Overcast
+04-01-2024,Indiranagar,Bypass Road,46106,52,57,1,Fog
+24-01-2024,MG Road,Flyover Road,34738,31,75,1,Rainy
+20-01-2024,Jayanagar,Ring Road,29772,36,65,1,Rainy
+08-02-2024,Whitefield,Junction Road,59160,46,43,5,Fog
+07-01-2024,MG Road,High Street,47908,24,89,0,Clear
+19-02-2024,Indiranagar,Ring Road,45462,57,71,1,Rainy
+01-02-2024,Jayanagar,High Street,32064,57,88,1,Overcast
+16-01-2024,Koramangala,High Street,54661,47,70,0,Rainy
+31-01-2024,MG Road,Bypass Road,55116,31,46,2,Clear
+07-02-2024,Koramangala,High Street,42247,58,69,4,Overcast
+23-01-2024,Koramangala,Ring Road,63340,65,55,1,Overcast
+05-01-2024,Indiranagar,Flyover Road,58161,70,54,0,Fog
+08-02-2024,Jayanagar,Main Road,45006,22,43,4,Rainy
+14-01-2024,Jayanagar,Flyover Road,47129,36,56,1,Overcast
+17-01-2024,Indiranagar,Flyover Road,20010,67,78,4,Overcast
+15-02-2024,MG Road,High Street,16428,69,80,4,Rainy
+13-01-2024,Koramangala,Flyover Road,31355,56,61,2,Rainy
+07-01-2024,Indiranagar,Bypass Road,66724,40,89,4,Fog
+11-02-2024,Hebbal,Main Road,27277,31,80,3,Rainy
+26-02-2024,Whitefield,Bypass Road,65233,32,65,3,Rainy
+15-01-2024,Jayanagar,Bypass Road,42991,20,62,2,Rainy
+12-02-2024,Koramangala,Ring Road,60789,70,64,1,Clear
+16-01-2024,Jayanagar,Flyover Road,37523,30,44,4,Overcast
+08-01-2024,Whitefield,Ring Road,62682,44,49,5,Overcast
+11-01-2024,Whitefield,Bypass Road,45035,31,45,3,Overcast
+19-02-2024,MG Road,Ring Road,24487,67,56,0,Clear
+24-02-2024,Hebbal,Bypass Road,58638,63,84,5,Clear
+29-01-2024,Whitefield,Ring Road,47492,27,56,5,Clear
+11-02-2024,Hebbal,Bypass Road,54850,21,67,1,Rainy
+13-01-2024,Hebbal,Main Road,65167,62,76,1,Clear
+24-01-2024,Hebbal,Ring Road,39243,67,80,0,Rainy
+25-01-2024,Whitefield,Bypass Road,21080,44,76,0,Clear
+02-02-2024,Indiranagar,Flyover Road,26197,26,63,5,Clear
+14-02-2024,Koramangala,Junction Road,52745,39,93,1,Fog
+27-01-2024,Whitefield,High Street,69874,69,94,4,Rainy
+03-01-2024,Jayanagar,Ring Road,64840,62,44,0,Rainy
+25-01-2024,Hebbal,Main Road,61228,70,91,1,Overcast
+17-02-2024,Indiranagar,High Street,64922,24,49,5,Fog
+01-02-2024,Koramangala,Ring Road,44102,22,75,4,Overcast
+29-01-2024,Hebbal,Bypass Road,67432,35,93,5,Fog
+10-01-2024,Hebbal,Main Road,25602,44,58,2,Overcast
+13-01-2024,Hebbal,Flyover Road,36448,69,63,1,Fog
+22-02-2024,Whitefield,Junction Road,59845,32,43,5,Overcast
+09-02-2024,Indiranagar,High Street,69179,42,98,0,Fog
+26-02-2024,Indiranagar,Flyover Road,23066,66,76,5,Rainy
+05-02-2024,Hebbal,Main Road,65387,27,53,5,Clear
+08-01-2024,Jayanagar,Main Road,48465,68,68,1,Rainy
+16-02-2024,MG Road,Junction Road,27353,64,44,1,Rainy
+15-02-2024,Hebbal,Ring Road,40219,37,40,2,Fog
+03-02-2024,Hebbal,Junction Road,65046,50,51,5,Rainy
+26-02-2024,Jayanagar,Ring Road,55530,20,90,2,Rainy
+23-02-2024,Hebbal,Flyover Road,35426,37,98,1,Fog
+23-01-2024,MG Road,Main Road,34495,27,76,3,Rainy
+28-01-2024,Indiranagar,Bypass Road,51450,31,71,1,Clear
+09-01-2024,Jayanagar,Junction Road,40816,42,89,1,Overcast
+03-01-2024,Whitefield,High Street,32725,27,53,0,Rainy
+04-02-2024,Hebbal,Ring Road,22159,31,44,1,Overcast
+27-01-2024,MG Road,Bypass Road,30979,64,93,4,Rainy
+01-01-2024,Whitefield,Flyover Road,33575,63,66,2,Clear
+05-01-2024,MG Road,High Street,40315,46,98,5,Clear
+13-02-2024,Indiranagar,High Street,54905,53,95,1,Rainy
+29-01-2024,Whitefield,Ring Road,19264,40,96,1,Overcast
+10-01-2024,Koramangala,Flyover Road,16692,53,71,1,Fog
+03-01-2024,Koramangala,Junction Road,65074,26,71,1,Overcast
+17-02-2024,Whitefield,Flyover Road,24104,41,66,3,Clear
+24-02-2024,Whitefield,Junction Road,54194,32,98,1,Fog
+02-02-2024,Hebbal,Junction Road,43080,33,77,5,Clear
+13-01-2024,MG Road,Flyover Road,23884,64,41,2,Clear
+07-01-2024,Hebbal,Flyover Road,65217,46,73,0,Overcast
+01-02-2024,Hebbal,Main Road,68426,66,43,2,Rainy
+27-01-2024,Indiranagar,High Street,17659,27,99,1,Rainy
+22-02-2024,Indiranagar,Flyover Road,20237,27,89,1,Overcast
+16-01-2024,Whitefield,High Street,67210,30,51,3,Rainy
+01-02-2024,Whitefield,Bypass Road,33126,69,43,1,Clear
+03-02-2024,Whitefield,Bypass Road,57534,34,85,2,Clear
+11-01-2024,Whitefield,Flyover Road,49914,38,63,2,Clear
+10-02-2024,Jayanagar,Main Road,59778,56,56,2,Rainy
+06-02-2024,MG Road,High Street,50724,55,49,2,Fog
+11-02-2024,Koramangala,Bypass Road,21006,29,90,0,Clear
+25-01-2024,Indiranagar,High Street,66286,22,51,5,Fog
+28-02-2024,Hebbal,Flyover Road,38335,43,63,4,Clear
+23-01-2024,Koramangala,Ring Road,20032,36,99,1,Rainy
+10-01-2024,Indiranagar,Bypass Road,29979,70,91,2,Fog
+03-02-2024,Koramangala,Junction Road,47914,23,98,5,Fog
+20-02-2024,Indiranagar,Ring Road,40251,53,67,1,Fog
+28-01-2024,Koramangala,Flyover Road,21815,30,48,3,Rainy
+02-02-2024,Hebbal,Flyover Road,55916,21,67,2,Clear
+08-01-2024,Whitefield,Main Road,64917,21,66,5,Rainy
+01-03-2024,Koramangala,Flyover Road,19825,41,80,2,Clear
+26-01-2024,Hebbal,Main Road,68673,30,65,0,Fog
+13-01-2024,Jayanagar,Ring Road,46625,57,83,2,Fog
+18-02-2024,Hebbal,Ring Road,55015,54,52,4,Overcast
+22-02-2024,Koramangala,High Street,46481,52,65,3,Clear
+06-01-2024,MG Road,High Street,42641,61,70,5,Rainy
+03-01-2024,Whitefield,Main Road,60107,32,83,3,Fog
+24-01-2024,Koramangala,Bypass Road,62870,44,41,5,Rainy
+01-01-2024,Koramangala,Junction Road,58996,30,80,4,Rainy
+12-01-2024,Indiranagar,Flyover Road,23931,60,88,0,Clear
+08-01-2024,Hebbal,Bypass Road,59214,56,86,2,Clear
+23-01-2024,MG Road,Junction Road,25439,66,84,0,Overcast
+14-01-2024,Whitefield,High Street,32815,33,48,0,Clear
+19-01-2024,Whitefield,Bypass Road,25968,68,50,4,Rainy
+15-01-2024,Whitefield,Flyover Road,41738,42,83,2,Clear
+12-02-2024,Koramangala,Bypass Road,18950,51,65,1,Overcast
+23-02-2024,Indiranagar,Ring Road,26818,70,99,3,Overcast
+11-01-2024,MG Road,Flyover Road,46082,22,66,3,Fog
+30-01-2024,Koramangala,Bypass Road,37988,49,91,2,Fog
+03-01-2024,Indiranagar,Main Road,50396,52,77,0,Fog
+09-02-2024,Hebbal,Flyover Road,50493,65,96,0,Rainy
+10-02-2024,Whitefield,Bypass Road,24363,62,66,5,Fog
+14-02-2024,Indiranagar,Junction Road,31011,28,48,2,Overcast
+14-01-2024,Indiranagar,Junction Road,53028,45,56,4,Rainy
+11-02-2024,MG Road,High Street,55900,33,95,2,Fog
+01-03-2024,Koramangala,High Street,56410,67,61,0,Clear
+02-02-2024,MG Road,High Street,69699,51,80,5,Overcast
+17-01-2024,Whitefield,Junction Road,16763,64,79,3,Clear
+17-02-2024,Hebbal,Main Road,57428,36,48,4,Overcast
+04-02-2024,Indiranagar,High Street,16081,59,88,2,Clear
+26-02-2024,MG Road,Bypass Road,43777,47,76,3,Rainy
+19-02-2024,Koramangala,Bypass Road,64069,35,96,3,Fog
+08-01-2024,MG Road,Bypass Road,35888,35,42,2,Overcast
+01-03-2024,Koramangala,Bypass Road,47229,21,95,0,Overcast
+19-01-2024,Koramangala,High Street,45335,37,81,4,Clear
+06-02-2024,Whitefield,Flyover Road,17240,58,55,3,Fog
+14-01-2024,Whitefield,Flyover Road,32968,27,95,3,Clear
+04-02-2024,Whitefield,Main Road,31828,42,99,5,Fog
+26-02-2024,Koramangala,Flyover Road,49014,55,65,0,Fog
+28-02-2024,MG Road,Main Road,27981,62,42,4,Clear
+09-02-2024,Whitefield,High Street,16396,53,48,3,Clear
+27-01-2024,Indiranagar,Flyover Road,43491,34,49,4,Clear
+02-01-2024,MG Road,Junction Road,32388,52,43,0,Overcast
+25-02-2024,Indiranagar,Flyover Road,69255,41,51,5,Fog
+31-01-2024,Koramangala,High Street,28240,45,75,1,Fog
+26-02-2024,Hebbal,Flyover Road,68782,35,66,3,Clear
+18-02-2024,Whitefield,Ring Road,27085,62,62,5,Overcast
+25-02-2024,MG Road,Flyover Road,40302,44,98,1,Clear
+21-01-2024,MG Road,High Street,54376,42,59,0,Clear
+22-01-2024,MG Road,Junction Road,17180,67,40,0,Fog
+20-02-2024,Koramangala,Main Road,31738,66,79,5,Overcast
+19-01-2024,Koramangala,Junction Road,60492,42,81,0,Clear
+20-02-2024,Jayanagar,High Street,68924,47,54,5,Overcast
+05-02-2024,Indiranagar,Bypass Road,56552,46,98,3,Overcast
+20-02-2024,Hebbal,Bypass Road,38385,38,61,4,Rainy
+29-02-2024,Jayanagar,Junction Road,21832,67,71,5,Rainy
+30-01-2024,Jayanagar,High Street,46147,61,82,5,Rainy
+09-02-2024,Indiranagar,Bypass Road,45119,47,79,2,Clear
+18-02-2024,Koramangala,Flyover Road,24675,37,52,4,Clear
+04-01-2024,Koramangala,Flyover Road,44951,68,41,4,Overcast
+10-01-2024,MG Road,Ring Road,43309,60,78,2,Clear
+11-02-2024,Whitefield,Flyover Road,43980,53,57,3,Overcast
+01-01-2024,Indiranagar,High Street,21090,28,94,3,Overcast
+23-02-2024,Indiranagar,Flyover Road,56595,50,53,0,Clear
+22-01-2024,MG Road,Main Road,29770,64,43,0,Rainy
+29-01-2024,Jayanagar,Main Road,22757,56,54,0,Rainy
+31-01-2024,Koramangala,Flyover Road,35708,26,51,1,Overcast
+24-02-2024,MG Road,Flyover Road,65753,51,49,0,Clear
+05-01-2024,Indiranagar,Flyover Road,38550,35,53,3,Clear
+10-01-2024,Jayanagar,High Street,58758,41,99,5,Rainy
+07-02-2024,Hebbal,Junction Road,64045,34,95,1,Fog
+05-02-2024,Jayanagar,Junction Road,65606,42,99,1,Fog
+14-02-2024,Hebbal,Main Road,25034,40,61,5,Rainy
+31-01-2024,Indiranagar,High Street,23607,36,95,5,Rainy
+19-01-2024,Jayanagar,Bypass Road,65752,38,81,3,Rainy
+05-02-2024,Jayanagar,Flyover Road,48342,56,56,4,Fog
+13-01-2024,Koramangala,Junction Road,30750,56,54,3,Clear
+15-02-2024,Hebbal,Main Road,21437,37,43,3,Clear
+27-01-2024,Koramangala,Main Road,18142,32,100,0,Clear
+21-02-2024,Koramangala,Ring Road,37573,27,68,3,Clear
+04-02-2024,Koramangala,Junction Road,51686,35,52,4,Clear
+28-02-2024,MG Road,Bypass Road,32490,38,86,5,Rainy
+09-01-2024,Koramangala,Flyover Road,49842,65,75,3,Rainy
+19-01-2024,MG Road,High Street,25240,25,67,2,Clear
+08-02-2024,Koramangala,Junction Road,50081,37,92,0,Fog
+13-02-2024,Hebbal,Main Road,32767,44,87,5,Rainy
+02-02-2024,Jayanagar,Junction Road,65316,21,97,2,Rainy
+04-01-2024,Hebbal,Bypass Road,17905,51,49,1,Rainy
+02-02-2024,Hebbal,Flyover Road,15223,59,77,3,Clear
+11-02-2024,Jayanagar,Junction Road,39646,60,63,2,Fog
+20-01-2024,Indiranagar,Bypass Road,21070,34,64,5,Clear
+01-03-2024,Koramangala,Ring Road,64446,64,87,5,Fog
+21-02-2024,Whitefield,Flyover Road,26126,22,91,3,Overcast
+22-02-2024,Jayanagar,Junction Road,67577,43,62,1,Rainy
+14-01-2024,MG Road,High Street,22520,27,74,0,Fog
+31-01-2024,MG Road,Junction Road,52298,22,44,5,Rainy
+14-01-2024,Whitefield,Main Road,42831,46,97,5,Clear
+18-02-2024,Whitefield,Junction Road,63732,31,88,4,Clear
+03-02-2024,MG Road,Flyover Road,44309,67,92,1,Overcast
+25-01-2024,Hebbal,Flyover Road,43564,25,100,4,Rainy
+22-02-2024,Koramangala,Flyover Road,23599,22,77,1,Overcast
+07-01-2024,Whitefield,Junction Road,57975,22,47,1,Rainy
+14-02-2024,Hebbal,Flyover Road,50483,22,63,4,Clear
+20-01-2024,Indiranagar,Bypass Road,38558,70,58,3,Fog
+21-01-2024,Whitefield,Flyover Road,38694,46,71,2,Fog
+17-01-2024,Hebbal,Junction Road,32369,60,57,5,Overcast
+23-02-2024,Koramangala,Bypass Road,38407,27,96,0,Clear
+21-01-2024,Whitefield,Flyover Road,16162,67,48,5,Fog
+18-02-2024,Whitefield,Bypass Road,46560,70,52,5,Fog
+11-01-2024,Whitefield,Ring Road,20995,20,85,1,Fog
+21-01-2024,Whitefield,High Street,47975,45,67,2,Rainy
+21-01-2024,Koramangala,Ring Road,40663,70,64,2,Clear
+12-01-2024,Hebbal,Ring Road,15566,66,98,5,Rainy
+12-01-2024,Jayanagar,Bypass Road,39220,67,41,4,Fog
+15-01-2024,Hebbal,Main Road,49578,55,59,0,Rainy
+13-02-2024,Koramangala,Ring Road,60656,21,70,3,Overcast
+05-02-2024,Jayanagar,Bypass Road,21566,58,65,5,Fog
+26-02-2024,Hebbal,High Street,36828,63,47,3,Fog
+21-02-2024,Whitefield,Bypass Road,23892,60,84,2,Fog
+09-01-2024,Hebbal,Bypass Road,45398,56,84,4,Overcast
+04-01-2024,Indiranagar,Flyover Road,15386,65,58,0,Clear
+01-02-2024,MG Road,High Street,35615,68,90,3,Fog
+18-02-2024,Jayanagar,Ring Road,27614,68,68,3,Rainy
+06-01-2024,Hebbal,Flyover Road,55535,57,95,5,Rainy
+24-01-2024,MG Road,Ring Road,50159,43,100,0,Clear
+05-02-2024,Hebbal,Junction Road,37491,54,69,3,Clear
+05-01-2024,Hebbal,Flyover Road,36234,40,69,0,Rainy
+17-01-2024,Whitefield,Ring Road,36044,31,70,5,Overcast
+29-02-2024,Indiranagar,Bypass Road,62636,42,43,4,Rainy
+18-02-2024,MG Road,Flyover Road,22185,57,58,2,Overcast
+23-02-2024,Jayanagar,Bypass Road,62494,27,85,0,Rainy
+04-02-2024,Whitefield,Flyover Road,29069,43,67,0,Clear
+06-01-2024,Koramangala,Ring Road,15291,33,61,4,Overcast
+09-02-2024,Indiranagar,Ring Road,40296,39,53,0,Overcast
+06-02-2024,Indiranagar,Bypass Road,24097,21,56,5,Clear
+09-01-2024,MG Road,High Street,34243,63,97,4,Fog
+22-02-2024,Hebbal,Main Road,25062,54,86,3,Fog
+07-01-2024,Hebbal,Flyover Road,69170,61,53,0,Clear
+21-01-2024,Whitefield,Ring Road,43357,30,89,3,Rainy
+10-01-2024,Indiranagar,Flyover Road,35782,48,54,1,Clear
+25-01-2024,Jayanagar,Ring Road,59019,66,84,0,Clear
+31-01-2024,Jayanagar,High Street,68558,56,100,4,Clear
+11-01-2024,Jayanagar,Flyover Road,45065,31,97,5,Fog
+06-02-2024,Hebbal,Junction Road,25390,32,44,3,Rainy
+23-02-2024,Whitefield,Junction Road,17837,36,69,3,Overcast
+10-02-2024,Whitefield,Bypass Road,48959,52,85,3,Overcast
+27-01-2024,Whitefield,Main Road,62205,46,94,5,Clear
+24-02-2024,Whitefield,High Street,22623,24,52,4,Clear
+21-01-2024,Hebbal,Junction Road,40107,61,73,2,Overcast
+22-02-2024,Jayanagar,Junction Road,59323,39,47,2,Overcast
+19-01-2024,Indiranagar,Main Road,49877,61,78,3,Fog
+27-01-2024,Koramangala,Flyover Road,21813,44,96,0,Fog
+07-02-2024,Koramangala,Main Road,58620,41,66,3,Clear
+09-02-2024,Whitefield,Main Road,52174,52,48,5,Overcast
+12-02-2024,Hebbal,Bypass Road,20460,63,59,2,Overcast
+26-02-2024,MG Road,Flyover Road,48484,55,78,2,Fog
+14-02-2024,MG Road,Junction Road,42192,54,89,1,Fog
+18-02-2024,MG Road,Flyover Road,34043,30,63,1,Fog
+26-01-2024,Jayanagar,Ring Road,33124,46,63,5,Fog
+27-02-2024,MG Road,Junction Road,27127,59,47,2,Rainy
+19-01-2024,Hebbal,Flyover Road,47423,21,44,1,Overcast
+29-01-2024,Indiranagar,High Street,47046,70,76,1,Rainy
+19-02-2024,Whitefield,High Street,65196,50,75,3,Fog
+02-02-2024,Jayanagar,Main Road,22938,59,87,3,Fog
+12-01-2024,Hebbal,Ring Road,34271,56,87,2,Clear
+27-02-2024,Koramangala,High Street,44005,56,84,1,Rainy
+18-02-2024,Whitefield,Bypass Road,41103,22,89,4,Fog
+04-02-2024,Hebbal,Bypass Road,60906,20,51,1,Clear
+17-01-2024,Hebbal,Ring Road,69389,53,73,3,Clear
+20-01-2024,Hebbal,Bypass Road,31643,60,86,5,Fog
+23-01-2024,Whitefield,Flyover Road,30824,32,83,2,Overcast
+03-01-2024,MG Road,High Street,32820,37,76,4,Clear
+03-02-2024,Jayanagar,Main Road,24162,56,90,2,Clear
+01-02-2024,MG Road,Ring Road,35540,31,70,2,Overcast
+07-02-2024,Jayanagar,High Street,21972,32,79,3,Rainy
+23-01-2024,MG Road,Bypass Road,66970,45,44,2,Fog
+29-01-2024,Whitefield,Bypass Road,58477,70,69,5,Overcast
+25-01-2024,Jayanagar,Flyover Road,29655,46,80,4,Clear
+01-02-2024,Indiranagar,Junction Road,38405,45,84,2,Rainy
+10-02-2024,MG Road,High Street,53603,42,43,5,Fog
+02-02-2024,Koramangala,Bypass Road,67606,38,52,5,Clear
+04-01-2024,Koramangala,High Street,46389,68,82,3,Clear
+29-01-2024,Koramangala,Bypass Road,58092,26,72,1,Rainy
+23-01-2024,Jayanagar,Junction Road,65547,63,85,2,Clear
+28-01-2024,Whitefield,High Street,64929,64,93,5,Clear
+12-02-2024,Jayanagar,Flyover Road,43486,50,41,0,Overcast
+17-02-2024,Jayanagar,Junction Road,64276,65,94,2,Clear
+08-01-2024,Hebbal,Flyover Road,57132,63,62,4,Overcast
+05-02-2024,Koramangala,Bypass Road,37243,57,64,4,Fog
+07-01-2024,Hebbal,Main Road,38387,22,52,4,Clear
+01-03-2024,Hebbal,Main Road,57323,30,73,1,Fog
+29-02-2024,Whitefield,Flyover Road,47469,43,55,3,Rainy
+30-01-2024,Indiranagar,Flyover Road,60240,20,46,3,Rainy
+23-01-2024,Hebbal,Ring Road,49806,62,42,3,Overcast
+17-01-2024,Hebbal,Ring Road,47873,58,48,4,Overcast
+13-01-2024,Whitefield,Junction Road,58959,64,62,3,Fog
+21-02-2024,Jayanagar,High Street,46379,51,96,4,Rainy
+10-01-2024,MG Road,Bypass Road,40720,29,65,5,Overcast
+31-01-2024,Jayanagar,Junction Road,54563,45,93,5,Fog
+29-02-2024,Indiranagar,Junction Road,27819,62,99,1,Overcast
+19-01-2024,Indiranagar,Junction Road,36635,50,66,1,Fog
+11-02-2024,Indiranagar,Junction Road,27123,32,94,3,Fog
+04-01-2024,Whitefield,Ring Road,61657,67,74,5,Clear
+18-01-2024,Koramangala,Main Road,15696,49,82,1,Rainy
+09-01-2024,Indiranagar,Main Road,43156,70,81,5,Overcast
+06-02-2024,Hebbal,Main Road,33961,56,100,2,Rainy
+02-01-2024,Hebbal,Ring Road,38637,44,69,3,Overcast
+04-02-2024,Whitefield,High Street,29826,35,92,5,Rainy
+09-01-2024,Jayanagar,Ring Road,55611,53,53,4,Rainy
+23-01-2024,Hebbal,Junction Road,47690,67,88,5,Rainy
+02-01-2024,Hebbal,Ring Road,35401,31,67,1,Clear
+02-01-2024,Jayanagar,Bypass Road,39940,40,45,5,Fog
+26-02-2024,Jayanagar,Bypass Road,51487,32,94,5,Clear
+03-01-2024,Indiranagar,Bypass Road,21454,44,41,0,Clear
+18-01-2024,Jayanagar,Ring Road,23198,49,66,0,Clear
+21-01-2024,Hebbal,Ring Road,20461,35,50,4,Rainy
+09-02-2024,MG Road,High Street,46052,64,72,1,Overcast
+16-01-2024,MG Road,Bypass Road,60961,53,45,1,Rainy
+31-01-2024,Hebbal,High Street,27979,54,50,2,Fog
+10-02-2024,Whitefield,Junction Road,63197,52,82,1,Clear
+30-01-2024,Indiranagar,Junction Road,23933,27,94,0,Overcast
+29-01-2024,Hebbal,High Street,54575,45,82,0,Overcast
+21-02-2024,Jayanagar,Bypass Road,67755,41,63,1,Clear
+08-01-2024,MG Road,Bypass Road,44352,54,51,5,Clear
+25-02-2024,Whitefield,Bypass Road,64273,60,44,3,Rainy
+22-02-2024,Jayanagar,Main Road,49369,51,75,4,Overcast
+14-01-2024,Koramangala,High Street,31913,69,57,3,Fog
+10-01-2024,Whitefield,Bypass Road,18716,60,51,2,Fog
+13-01-2024,Jayanagar,High Street,34474,70,66,1,Rainy
+20-01-2024,MG Road,Ring Road,58121,51,63,5,Clear
+06-01-2024,MG Road,Junction Road,41006,44,94,2,Clear
+03-02-2024,Hebbal,High Street,57336,44,53,3,Fog
+11-01-2024,Koramangala,Main Road,62554,57,77,2,Overcast
+07-02-2024,Hebbal,Flyover Road,64287,29,43,3,Rainy
+12-02-2024,MG Road,High Street,27153,56,46,4,Overcast
+14-02-2024,MG Road,High Street,38102,69,65,3,Overcast
+30-01-2024,MG Road,Flyover Road,50334,25,90,5,Rainy
+14-02-2024,MG Road,Main Road,40043,56,75,2,Clear
+03-01-2024,Koramangala,High Street,55645,60,98,5,Rainy
+27-02-2024,Whitefield,Main Road,39981,56,70,3,Fog
+21-01-2024,Hebbal,Ring Road,38953,59,84,1,Rainy
+06-02-2024,Koramangala,Main Road,55407,62,41,0,Rainy
+29-02-2024,Indiranagar,Ring Road,67323,46,40,5,Clear
+17-02-2024,Indiranagar,Main Road,39306,26,67,3,Rainy
+22-01-2024,Hebbal,Main Road,17692,34,62,5,Overcast
+29-01-2024,Koramangala,Main Road,27541,64,52,2,Rainy
+26-01-2024,MG Road,High Street,32890,21,70,3,Clear
+15-02-2024,Koramangala,High Street,35416,23,70,3,Overcast
+23-01-2024,Jayanagar,Junction Road,44059,43,63,2,Clear
+16-02-2024,Indiranagar,Bypass Road,61754,70,64,0,Rainy
+22-02-2024,Koramangala,Flyover Road,48428,56,67,1,Rainy
+24-01-2024,Whitefield,High Street,41338,20,64,0,Rainy
+27-01-2024,Indiranagar,Ring Road,52769,28,71,4,Fog
+11-01-2024,MG Road,High Street,56812,35,70,0,Fog
+20-02-2024,Whitefield,Junction Road,47632,67,83,2,Rainy
+27-02-2024,MG Road,High Street,21858,62,40,4,Clear
+13-02-2024,Indiranagar,High Street,67870,51,40,4,Clear
+06-02-2024,Jayanagar,High Street,19434,54,48,4,Fog
+23-02-2024,Koramangala,Junction Road,56387,30,74,2,Overcast
+29-02-2024,Whitefield,Ring Road,31796,66,66,0,Rainy
+25-01-2024,Whitefield,High Street,27465,63,60,3,Clear
+27-01-2024,MG Road,Junction Road,37341,48,70,1,Overcast
+24-01-2024,Koramangala,High Street,58295,33,73,4,Overcast
+17-01-2024,Whitefield,Ring Road,52284,45,95,5,Clear
+25-02-2024,MG Road,Ring Road,67991,69,95,5,Overcast
+27-01-2024,Indiranagar,Main Road,54867,23,98,0,Clear
+10-01-2024,Jayanagar,Ring Road,17038,56,71,1,Clear
+15-01-2024,Hebbal,Ring Road,29373,26,90,3,Clear
+03-01-2024,Jayanagar,High Street,69253,35,56,1,Clear
+16-01-2024,Koramangala,Ring Road,30826,49,56,0,Fog
+19-02-2024,Hebbal,Ring Road,43191,37,89,4,Overcast
+06-02-2024,Hebbal,High Street,20831,41,53,0,Fog
+25-01-2024,MG Road,High Street,22968,64,75,0,Rainy
+07-01-2024,MG Road,Flyover Road,64473,30,79,2,Fog
+01-02-2024,Whitefield,Ring Road,62126,49,95,4,Rainy
+04-01-2024,Koramangala,Main Road,18178,63,56,2,Fog
+04-01-2024,Koramangala,Ring Road,43000,54,40,1,Overcast
+18-01-2024,Indiranagar,Junction Road,21926,25,70,2,Rainy
+27-01-2024,Koramangala,High Street,67086,43,90,3,Rainy
+08-02-2024,Koramangala,High Street,21626,50,46,5,Overcast
+27-02-2024,Indiranagar,Ring Road,64906,54,69,4,Rainy
+23-02-2024,MG Road,High Street,33994,67,84,1,Overcast
+14-01-2024,Indiranagar,High Street,42738,61,72,2,Rainy
+28-02-2024,Indiranagar,Main Road,65041,64,63,2,Rainy
+01-01-2024,MG Road,Main Road,18929,64,90,0,Clear
+02-02-2024,Hebbal,Bypass Road,37519,23,91,1,Rainy
+08-02-2024,Indiranagar,Main Road,38148,70,48,3,Clear
+28-01-2024,Jayanagar,Junction Road,66286,54,77,2,Clear
+18-02-2024,Hebbal,Ring Road,17140,34,40,1,Rainy
+12-01-2024,Jayanagar,Ring Road,67210,35,69,4,Overcast
+11-02-2024,Whitefield,Junction Road,25715,46,85,0,Rainy
+26-01-2024,Koramangala,High Street,31515,52,80,2,Overcast
+18-02-2024,Jayanagar,Main Road,27224,70,55,5,Clear
+20-01-2024,Jayanagar,Bypass Road,30690,62,69,5,Fog
+04-01-2024,Whitefield,Junction Road,67876,64,60,1,Rainy
+14-02-2024,Whitefield,Junction Road,45404,64,78,2,Clear
+13-02-2024,Whitefield,Bypass Road,66548,56,85,1,Clear
+20-02-2024,Indiranagar,Flyover Road,30734,50,61,0,Rainy
+13-01-2024,Hebbal,Flyover Road,61597,58,76,2,Fog
+16-01-2024,Whitefield,Main Road,25332,44,97,4,Fog
+25-02-2024,Jayanagar,Ring Road,26194,65,100,5,Fog
+25-02-2024,MG Road,High Street,64959,39,68,4,Clear
+14-02-2024,Jayanagar,Main Road,56438,40,95,5,Fog
+27-02-2024,Indiranagar,Bypass Road,52395,26,94,1,Fog
+28-02-2024,Hebbal,High Street,55589,37,81,5,Fog
+16-01-2024,Hebbal,Bypass Road,58099,32,45,4,Overcast
+23-02-2024,Koramangala,Junction Road,66665,29,42,1,Clear
+02-02-2024,Whitefield,Ring Road,41244,53,70,1,Overcast
+22-02-2024,Hebbal,High Street,38988,20,92,3,Fog
+08-01-2024,Jayanagar,Main Road,44564,61,63,2,Rainy
+24-02-2024,Jayanagar,Junction Road,24279,69,100,1,Rainy
+16-01-2024,MG Road,Ring Road,22602,42,75,4,Fog
+12-01-2024,Indiranagar,Ring Road,35218,44,55,5,Clear
+04-02-2024,Koramangala,Main Road,53461,27,42,1,Clear
+10-01-2024,Indiranagar,Bypass Road,67915,60,55,2,Rainy
+29-02-2024,Koramangala,Bypass Road,19684,62,78,5,Clear
+29-02-2024,Hebbal,Flyover Road,66588,40,73,4,Overcast
+20-02-2024,Indiranagar,Ring Road,39824,50,57,4,Fog
+13-01-2024,Hebbal,Bypass Road,40521,46,46,4,Overcast
+19-01-2024,Koramangala,Ring Road,49684,53,49,0,Clear
+20-02-2024,Koramangala,Main Road,43974,48,94,3,Clear
+02-01-2024,MG Road,High Street,20564,63,93,0,Overcast
+08-01-2024,MG Road,Ring Road,66954,20,85,1,Rainy
+08-01-2024,Jayanagar,Main Road,58279,53,48,5,Clear
+07-02-2024,Koramangala,Main Road,22229,48,79,0,Fog
+18-01-2024,Hebbal,High Street,47806,27,59,0,Overcast
+27-01-2024,Indiranagar,Bypass Road,20316,51,75,5,Fog
+11-01-2024,Koramangala,Ring Road,67244,25,82,2,Fog
+24-01-2024,Koramangala,Junction Road,20052,60,77,5,Fog
+04-01-2024,Koramangala,Flyover Road,38405,21,63,5,Rainy
+07-01-2024,Jayanagar,Bypass Road,59676,39,87,4,Rainy
+23-01-2024,Indiranagar,Junction Road,22640,50,44,0,Rainy
+26-01-2024,Indiranagar,Flyover Road,48025,51,56,1,Clear
+10-01-2024,MG Road,Bypass Road,28637,27,64,0,Clear
+02-01-2024,Hebbal,Flyover Road,48694,50,78,3,Overcast
+28-01-2024,MG Road,High Street,51819,35,53,5,Overcast
+04-02-2024,MG Road,Main Road,21692,70,41,5,Rainy
+07-02-2024,Whitefield,Bypass Road,32536,36,40,5,Rainy
+18-01-2024,Koramangala,Bypass Road,30619,39,69,1,Clear
+25-02-2024,Indiranagar,Ring Road,39497,28,56,5,Fog
+08-02-2024,Hebbal,Bypass Road,48642,35,63,1,Fog
+05-01-2024,Koramangala,Junction Road,57980,58,97,1,Clear
+08-02-2024,Indiranagar,Flyover Road,50486,36,63,3,Overcast
+21-01-2024,Hebbal,Bypass Road,67328,33,94,2,Rainy
+25-02-2024,Koramangala,Ring Road,64064,28,62,3,Rainy
+22-01-2024,Hebbal,Flyover Road,39597,42,87,0,Overcast
+11-02-2024,Hebbal,Flyover Road,68631,41,69,2,Clear
+27-01-2024,Indiranagar,Flyover Road,24683,33,48,2,Rainy
+16-01-2024,Koramangala,High Street,55952,66,54,4,Fog
+28-01-2024,MG Road,Junction Road,32255,29,91,0,Overcast
+04-02-2024,Koramangala,Junction Road,29712,27,59,5,Clear
+07-01-2024,Hebbal,Main Road,36984,40,80,5,Fog
+19-01-2024,Whitefield,High Street,49293,39,100,5,Clear
+01-02-2024,Jayanagar,Junction Road,19782,22,45,5,Rainy
+16-02-2024,Indiranagar,Main Road,24123,62,82,3,Overcast
+20-01-2024,Whitefield,Bypass Road,51582,42,80,2,Clear
+23-02-2024,Koramangala,High Street,61035,43,81,1,Rainy
+19-02-2024,Jayanagar,Bypass Road,24493,20,53,2,Overcast
+07-01-2024,Jayanagar,Bypass Road,33089,27,96,3,Clear
+04-01-2024,Koramangala,Junction Road,35041,45,50,2,Overcast
+09-02-2024,Indiranagar,Bypass Road,56765,32,55,2,Rainy
+10-01-2024,Indiranagar,Flyover Road,21504,64,46,4,Fog
+26-02-2024,Jayanagar,Junction Road,62138,70,87,0,Fog
+04-01-2024,Hebbal,Junction Road,32576,26,60,5,Clear
+17-02-2024,Hebbal,High Street,57884,50,51,4,Overcast
+13-01-2024,Koramangala,Bypass Road,37915,49,84,5,Rainy
+03-02-2024,Whitefield,High Street,18371,41,99,2,Clear
+14-02-2024,Koramangala,High Street,23929,66,57,3,Clear
+22-01-2024,Jayanagar,High Street,44534,27,80,1,Clear
+31-01-2024,Jayanagar,Main Road,63037,46,51,5,Clear
+03-02-2024,MG Road,High Street,51051,35,93,1,Fog
+07-02-2024,Jayanagar,Bypass Road,65825,36,45,4,Clear
+23-01-2024,Koramangala,High Street,24198,65,56,5,Overcast
+15-02-2024,MG Road,High Street,52486,25,92,0,Fog
+03-01-2024,Indiranagar,Main Road,55651,52,70,4,Fog
+11-01-2024,Hebbal,Ring Road,48386,35,96,5,Clear
+26-01-2024,Hebbal,High Street,21596,32,68,2,Overcast
+27-02-2024,Hebbal,Main Road,41488,49,78,5,Clear
+27-01-2024,Hebbal,Junction Road,59693,31,43,4,Clear
+20-01-2024,MG Road,Junction Road,41660,50,67,5,Rainy
+06-02-2024,MG Road,Junction Road,33169,68,60,1,Overcast
+01-01-2024,MG Road,High Street,65957,22,72,1,Overcast
+23-01-2024,Jayanagar,Main Road,60349,32,77,5,Rainy
+24-02-2024,Koramangala,High Street,21676,47,94,4,Rainy
+01-02-2024,Indiranagar,Ring Road,24265,36,41,0,Fog
+07-02-2024,Whitefield,Main Road,56817,31,73,3,Fog
+10-02-2024,Jayanagar,Flyover Road,41384,44,92,5,Fog
+21-01-2024,Koramangala,Ring Road,69990,56,100,5,Fog
+11-01-2024,Hebbal,Main Road,61111,36,77,0,Clear
+07-02-2024,Koramangala,Main Road,61613,49,45,4,Fog
+24-02-2024,Indiranagar,Flyover Road,26769,57,47,1,Rainy
+21-01-2024,Hebbal,Ring Road,35834,48,55,3,Fog
+07-01-2024,Whitefield,Ring Road,28854,22,68,4,Rainy
+04-02-2024,Koramangala,Bypass Road,39687,57,43,2,Fog
+26-02-2024,MG Road,Junction Road,36109,61,53,2,Rainy
+08-01-2024,Indiranagar,Junction Road,68244,66,48,4,Clear
+16-01-2024,Whitefield,High Street,45460,64,61,4,Fog
+17-02-2024,Jayanagar,Bypass Road,29785,34,69,5,Clear
+02-01-2024,Indiranagar,Flyover Road,51505,44,58,3,Overcast
+31-01-2024,Indiranagar,High Street,38044,47,43,2,Clear
+26-01-2024,Indiranagar,Main Road,18002,29,77,3,Fog
+23-01-2024,Indiranagar,Junction Road,44237,54,67,5,Rainy
+18-02-2024,Jayanagar,Flyover Road,34857,38,59,4,Overcast
+18-01-2024,MG Road,Ring Road,58001,70,55,4,Overcast
+12-01-2024,Koramangala,Junction Road,46818,41,70,1,Clear
+24-02-2024,Koramangala,Bypass Road,45121,48,87,2,Rainy
+30-01-2024,Jayanagar,High Street,27164,40,46,3,Clear
+19-02-2024,Indiranagar,Junction Road,32950,53,65,2,Rainy
+24-01-2024,Jayanagar,Ring Road,53224,66,84,3,Fog
+09-02-2024,MG Road,Bypass Road,47171,26,58,0,Rainy
+07-01-2024,Koramangala,High Street,41300,63,98,4,Fog
+31-01-2024,Koramangala,High Street,45544,60,93,0,Clear
+20-01-2024,Indiranagar,Junction Road,52858,44,51,3,Clear
+10-02-2024,Koramangala,Main Road,39597,61,91,2,Fog
+11-02-2024,Koramangala,Ring Road,59267,36,86,2,Fog
+22-01-2024,Indiranagar,Flyover Road,48350,66,81,5,Clear
+10-02-2024,MG Road,Junction Road,18607,44,54,4,Rainy
+19-02-2024,Koramangala,High Street,52284,67,69,1,Overcast
+18-01-2024,Whitefield,Ring Road,28783,65,80,5,Fog
+26-01-2024,Jayanagar,Flyover Road,19166,37,72,5,Clear
+20-01-2024,Jayanagar,High Street,57891,68,70,4,Fog
+09-01-2024,Whitefield,Main Road,54279,56,74,3,Fog
+09-01-2024,Hebbal,Main Road,55935,57,62,3,Fog
+25-02-2024,Koramangala,Junction Road,31419,54,41,2,Fog
+03-02-2024,Hebbal,Ring Road,43548,49,49,3,Clear
+08-02-2024,Koramangala,High Street,17419,21,65,5,Overcast
+01-01-2024,Indiranagar,Bypass Road,48609,27,62,5,Clear
+06-02-2024,Jayanagar,Ring Road,25750,49,57,4,Fog
+20-02-2024,Hebbal,Ring Road,60755,23,77,3,Rainy
+24-01-2024,Koramangala,High Street,36670,48,97,5,Clear
+27-02-2024,MG Road,High Street,66326,58,94,2,Overcast
+15-02-2024,Jayanagar,Ring Road,19639,67,82,4,Overcast
+27-02-2024,Koramangala,Ring Road,46238,41,49,4,Clear
+22-02-2024,Hebbal,Main Road,63174,30,79,0,Rainy
+24-01-2024,Koramangala,Bypass Road,29056,51,67,1,Overcast
+09-02-2024,Whitefield,Bypass Road,16653,23,43,4,Overcast
+02-02-2024,Indiranagar,Ring Road,67758,55,94,1,Clear
+25-01-2024,Whitefield,Ring Road,23268,24,62,2,Fog
+03-01-2024,Whitefield,High Street,63474,23,89,4,Overcast
+04-01-2024,Indiranagar,Flyover Road,33577,32,69,2,Overcast
+02-02-2024,Koramangala,Junction Road,29969,33,78,0,Rainy
+15-02-2024,Indiranagar,Ring Road,64678,69,41,4,Fog
+24-02-2024,MG Road,Main Road,59487,20,66,4,Fog
+21-01-2024,Indiranagar,Ring Road,20896,40,49,3,Overcast
+21-01-2024,Hebbal,Bypass Road,29026,48,55,2,Overcast
+01-01-2024,Indiranagar,Main Road,26628,29,69,2,Overcast
+22-01-2024,Indiranagar,Bypass Road,68599,31,86,5,Overcast
+21-01-2024,Koramangala,Junction Road,64164,57,92,4,Overcast
+22-02-2024,Jayanagar,Main Road,39668,25,78,3,Overcast
+29-02-2024,Jayanagar,Bypass Road,15206,51,49,3,Rainy
+20-02-2024,Indiranagar,Junction Road,37393,32,77,1,Rainy
+26-02-2024,MG Road,Junction Road,19006,36,92,4,Clear
+12-02-2024,Jayanagar,Main Road,44673,49,47,1,Fog
+09-02-2024,Koramangala,Bypass Road,69950,21,69,1,Rainy
+17-02-2024,Indiranagar,Junction Road,69284,60,70,1,Fog
+01-01-2024,Koramangala,Junction Road,56975,67,48,0,Clear
+14-01-2024,Indiranagar,Flyover Road,20440,63,88,0,Overcast
+03-02-2024,Jayanagar,Junction Road,60986,51,67,0,Fog
+11-01-2024,Jayanagar,Junction Road,22894,70,55,4,Rainy
+12-02-2024,Whitefield,Ring Road,56076,37,62,4,Rainy
+17-02-2024,Whitefield,Flyover Road,40853,54,98,2,Rainy
+21-01-2024,Jayanagar,High Street,55104,32,67,0,Fog
+11-02-2024,Jayanagar,Bypass Road,63068,55,54,2,Overcast
+12-01-2024,MG Road,Bypass Road,29767,31,86,5,Overcast
+12-01-2024,Jayanagar,Bypass Road,64124,49,70,5,Overcast
+20-01-2024,Koramangala,Junction Road,42072,45,89,0,Clear
+04-02-2024,Jayanagar,Junction Road,26506,44,92,0,Fog
+06-02-2024,MG Road,Junction Road,41399,54,72,5,Overcast
+04-01-2024,Hebbal,Flyover Road,59569,38,80,1,Rainy
+30-01-2024,Koramangala,Ring Road,41043,68,85,0,Clear
+26-02-2024,Hebbal,Main Road,37586,51,44,5,Overcast
+04-01-2024,Koramangala,Main Road,28671,31,74,2,Fog
+07-02-2024,Hebbal,Bypass Road,43430,68,70,2,Rainy
+22-01-2024,Koramangala,Flyover Road,50498,52,57,1,Fog
+23-01-2024,Whitefield,Flyover Road,48402,52,99,0,Rainy
+26-02-2024,Jayanagar,Flyover Road,15488,55,98,0,Overcast
+05-02-2024,Whitefield,Bypass Road,40582,62,72,1,Fog
+04-02-2024,Jayanagar,High Street,34185,32,76,4,Fog
+02-01-2024,Jayanagar,Flyover Road,52200,69,40,1,Clear
+27-01-2024,MG Road,Ring Road,66475,20,61,2,Overcast
+09-01-2024,Jayanagar,High Street,54916,62,100,0,Clear
+18-01-2024,MG Road,High Street,17916,33,56,0,Fog
+31-01-2024,MG Road,Junction Road,25562,65,58,4,Rainy
+25-01-2024,Whitefield,Junction Road,49449,57,82,3,Fog
+06-02-2024,Hebbal,Main Road,65099,27,81,5,Rainy
+11-02-2024,Koramangala,Main Road,39467,42,62,4,Rainy
+29-02-2024,MG Road,High Street,36101,42,42,2,Fog
+25-02-2024,Indiranagar,Flyover Road,37380,51,90,1,Clear
+21-02-2024,Indiranagar,High Street,23882,51,46,5,Rainy
+01-03-2024,Jayanagar,Bypass Road,36081,59,83,3,Clear
+26-02-2024,Jayanagar,Main Road,43417,20,59,3,Clear
+20-02-2024,MG Road,High Street,56230,21,100,3,Clear
+07-01-2024,Koramangala,Bypass Road,26528,58,92,1,Overcast
+25-02-2024,Hebbal,Main Road,58564,62,93,2,Clear
+04-02-2024,Jayanagar,Ring Road,32837,49,69,0,Fog
+07-01-2024,Whitefield,Bypass Road,49325,24,47,5,Clear
+22-02-2024,Whitefield,Ring Road,46588,40,66,4,Fog
+12-02-2024,MG Road,Main Road,45396,37,74,1,Rainy
+01-02-2024,MG Road,Ring Road,22955,25,43,1,Rainy
+04-01-2024,Jayanagar,Flyover Road,25681,21,96,4,Clear
+17-01-2024,MG Road,Main Road,45321,62,63,3,Rainy
+06-02-2024,Hebbal,Ring Road,60132,30,63,0,Rainy
+25-01-2024,Indiranagar,Ring Road,62935,21,83,3,Clear
+12-01-2024,MG Road,Ring Road,26229,41,51,3,Rainy
+04-01-2024,Jayanagar,Bypass Road,40368,35,55,5,Rainy
+04-02-2024,Koramangala,Ring Road,60539,46,61,5,Rainy
+12-01-2024,Indiranagar,Ring Road,32893,29,63,2,Overcast
+05-01-2024,Jayanagar,High Street,36984,46,67,5,Rainy
+03-01-2024,Jayanagar,Bypass Road,49792,48,66,5,Fog
+22-01-2024,Hebbal,Junction Road,41037,30,89,5,Fog
+23-01-2024,Whitefield,Flyover Road,18123,48,73,3,Clear
+18-02-2024,Jayanagar,Main Road,68098,69,47,2,Rainy
+10-01-2024,Jayanagar,High Street,48003,30,42,5,Overcast
+10-02-2024,Indiranagar,High Street,63407,42,82,2,Fog
+13-01-2024,Whitefield,Ring Road,47676,36,93,1,Clear
+02-01-2024,MG Road,Flyover Road,56139,39,44,5,Overcast
+23-02-2024,Koramangala,Flyover Road,44946,64,96,5,Overcast
+31-01-2024,Koramangala,Ring Road,20858,23,60,3,Rainy
+07-01-2024,Hebbal,Flyover Road,63393,63,53,3,Overcast
+13-02-2024,Jayanagar,Main Road,29398,63,52,0,Overcast
+20-01-2024,Jayanagar,Flyover Road,16679,43,66,5,Clear
+27-01-2024,MG Road,Ring Road,66423,20,89,1,Rainy
+21-02-2024,MG Road,Flyover Road,41519,21,41,5,Rainy
+01-02-2024,MG Road,Junction Road,69715,36,87,4,Overcast
+26-01-2024,MG Road,Bypass Road,24333,68,84,1,Rainy
+21-01-2024,Jayanagar,Bypass Road,32450,59,73,0,Clear
+17-02-2024,Indiranagar,Ring Road,26844,66,56,1,Fog
+15-02-2024,Hebbal,Bypass Road,43669,32,47,0,Fog
+08-02-2024,Whitefield,Flyover Road,42848,50,64,4,Fog
+03-02-2024,Whitefield,Junction Road,22845,39,82,2,Clear
+14-02-2024,Jayanagar,Flyover Road,58906,37,82,1,Rainy
+29-01-2024,Jayanagar,Ring Road,17545,42,98,4,Rainy
+13-01-2024,Indiranagar,Junction Road,50181,37,86,1,Overcast
+11-01-2024,MG Road,Main Road,54389,29,52,2,Clear
+17-02-2024,Jayanagar,Bypass Road,27779,65,65,1,Clear
+10-01-2024,Koramangala,Flyover Road,15991,34,57,4,Fog
+17-02-2024,Whitefield,Main Road,60638,69,85,3,Fog
+24-02-2024,Indiranagar,Ring Road,28577,58,82,3,Rainy
+13-02-2024,Koramangala,High Street,44322,21,41,5,Rainy
+07-01-2024,Whitefield,Ring Road,31117,41,64,3,Rainy
+02-01-2024,MG Road,Main Road,31087,37,100,4,Rainy
+14-02-2024,Whitefield,Junction Road,48957,64,75,2,Rainy
+05-01-2024,Hebbal,Bypass Road,69653,51,81,4,Overcast
+05-02-2024,Jayanagar,High Street,21947,48,90,3,Overcast
+26-01-2024,MG Road,Bypass Road,68257,70,59,3,Clear
+01-02-2024,Jayanagar,Flyover Road,69503,69,88,4,Overcast
+19-01-2024,Hebbal,High Street,32555,70,41,1,Rainy
+24-02-2024,Jayanagar,Ring Road,63515,65,52,1,Fog
+17-01-2024,Koramangala,Bypass Road,67911,32,87,1,Overcast
+08-01-2024,Jayanagar,Junction Road,15015,23,65,1,Rainy
+17-02-2024,Jayanagar,High Street,68151,41,62,5,Overcast
+01-03-2024,MG Road,Flyover Road,40140,47,62,1,Clear
+09-02-2024,Jayanagar,High Street,46539,24,84,1,Overcast
+25-02-2024,Whitefield,High Street,26054,32,50,1,Clear
+08-02-2024,Jayanagar,Ring Road,58649,58,81,0,Overcast
+20-02-2024,Jayanagar,Bypass Road,47156,42,65,5,Rainy
+19-02-2024,MG Road,Ring Road,22174,35,89,4,Fog
+01-03-2024,Hebbal,Main Road,28470,34,68,1,Rainy
+02-01-2024,Jayanagar,Main Road,19119,28,75,5,Fog
+23-02-2024,Koramangala,Ring Road,30713,39,57,4,Overcast
+23-02-2024,Koramangala,High Street,49403,60,47,4,Rainy
+22-02-2024,Whitefield,Flyover Road,61357,31,52,5,Clear
+16-02-2024,Hebbal,High Street,35287,44,41,4,Overcast
+25-01-2024,Hebbal,Ring Road,47242,56,81,5,Overcast
+01-03-2024,Hebbal,Flyover Road,42529,69,76,2,Clear
+18-01-2024,Whitefield,Bypass Road,34742,44,46,4,Rainy
+11-02-2024,Indiranagar,Ring Road,50673,40,93,1,Clear
+20-02-2024,MG Road,High Street,36704,65,86,4,Rainy
+17-01-2024,Hebbal,Flyover Road,25444,47,49,4,Rainy
+21-02-2024,Koramangala,Bypass Road,22699,31,85,1,Rainy
+01-03-2024,Whitefield,Main Road,46730,35,98,5,Fog
+17-02-2024,Jayanagar,Ring Road,65811,51,48,5,Rainy
+26-02-2024,Hebbal,Main Road,39171,45,96,0,Clear
+16-01-2024,Hebbal,Main Road,32551,39,74,0,Fog
+18-01-2024,MG Road,High Street,56731,43,87,1,Overcast
+04-02-2024,MG Road,Ring Road,25485,29,98,5,Clear
+26-02-2024,MG Road,Flyover Road,37530,56,83,2,Fog
+15-02-2024,Hebbal,Junction Road,25213,27,70,0,Fog
+03-02-2024,MG Road,Main Road,63229,32,58,0,Overcast
+19-01-2024,MG Road,High Street,29459,50,82,0,Clear
+17-01-2024,Hebbal,High Street,20465,63,95,0,Rainy
+15-01-2024,Jayanagar,Junction Road,25404,48,58,2,Fog
+30-01-2024,Hebbal,Flyover Road,16679,30,63,3,Fog
+11-01-2024,Whitefield,Ring Road,51455,29,76,3,Fog
+29-01-2024,MG Road,Junction Road,46806,60,76,0,Fog
+08-02-2024,MG Road,Junction Road,26321,37,97,3,Rainy
+10-02-2024,MG Road,Bypass Road,62819,58,70,2,Overcast
+20-02-2024,Indiranagar,High Street,18289,50,72,1,Clear
+07-02-2024,Indiranagar,Junction Road,43267,31,71,0,Rainy
+11-02-2024,Hebbal,Flyover Road,60269,39,52,5,Clear
+20-02-2024,Koramangala,Bypass Road,57699,31,81,1,Rainy
+16-01-2024,Koramangala,Main Road,49017,53,95,2,Overcast
+14-02-2024,Hebbal,Main Road,16614,69,80,0,Clear
+11-02-2024,MG Road,Flyover Road,30334,41,42,0,Rainy
+07-02-2024,MG Road,Flyover Road,30522,40,56,1,Clear
+02-02-2024,Jayanagar,High Street,18533,28,47,5,Overcast
+22-02-2024,Koramangala,Flyover Road,41217,50,84,3,Rainy
+19-02-2024,Koramangala,Junction Road,22277,66,79,5,Rainy
+17-01-2024,MG Road,Flyover Road,65711,51,42,1,Overcast
+16-01-2024,Indiranagar,Flyover Road,67181,61,63,2,Rainy
+03-01-2024,Whitefield,Flyover Road,28470,23,76,5,Fog
+27-01-2024,MG Road,Junction Road,57822,43,54,4,Overcast
+10-01-2024,MG Road,Main Road,52461,32,79,3,Fog
+23-02-2024,Jayanagar,Flyover Road,35093,67,58,5,Clear
+09-01-2024,Indiranagar,Junction Road,54102,48,75,0,Overcast
+21-01-2024,Whitefield,Bypass Road,62956,28,85,0,Overcast
+26-01-2024,Jayanagar,Main Road,51337,60,93,0,Fog
+20-01-2024,Indiranagar,Bypass Road,27896,26,68,4,Fog
+07-01-2024,Koramangala,High Street,19360,24,65,1,Clear
+21-01-2024,Hebbal,Ring Road,67284,51,99,2,Overcast
+27-01-2024,MG Road,Bypass Road,23520,37,87,2,Fog
+06-01-2024,MG Road,Main Road,51416,29,100,3,Fog
+28-02-2024,Koramangala,High Street,68162,28,67,5,Fog
+01-01-2024,Koramangala,Ring Road,47170,39,64,0,Clear
+19-02-2024,MG Road,Flyover Road,46113,70,86,3,Fog
+27-02-2024,Whitefield,Junction Road,37733,44,45,1,Clear
+16-02-2024,Hebbal,Junction Road,67518,62,62,2,Clear
+08-01-2024,Koramangala,Ring Road,42010,66,91,1,Clear
+01-03-2024,Koramangala,Flyover Road,44972,56,40,3,Clear
+19-01-2024,Koramangala,Flyover Road,63152,45,43,2,Rainy
+25-02-2024,Koramangala,Bypass Road,57698,30,43,0,Clear
+21-01-2024,Indiranagar,Bypass Road,29422,41,100,2,Rainy
+08-02-2024,Indiranagar,Ring Road,42009,39,92,5,Clear
+06-02-2024,Koramangala,Junction Road,64649,40,58,3,Clear
+20-02-2024,Koramangala,Ring Road,38058,46,96,2,Fog
+22-02-2024,Koramangala,Flyover Road,49728,35,40,0,Fog
+08-01-2024,Whitefield,Flyover Road,19580,57,94,5,Fog
+01-02-2024,Indiranagar,Junction Road,16224,26,55,4,Clear
+27-01-2024,Hebbal,Ring Road,26256,34,86,1,Clear
+16-01-2024,Whitefield,Junction Road,34326,49,94,5,Overcast
+20-02-2024,Hebbal,Main Road,65181,64,79,5,Overcast
+17-01-2024,Indiranagar,Ring Road,43155,64,40,4,Fog
+15-02-2024,Whitefield,Junction Road,52731,66,80,5,Clear
+01-03-2024,MG Road,Bypass Road,47543,68,54,0,Overcast
+21-01-2024,Indiranagar,Main Road,49304,64,75,2,Overcast
+16-02-2024,Koramangala,Ring Road,57436,53,54,1,Fog
+16-02-2024,Koramangala,Ring Road,17885,68,73,2,Overcast
+07-02-2024,Jayanagar,Junction Road,45418,21,42,0,Fog
+11-02-2024,Hebbal,Bypass Road,65013,39,60,1,Clear
+24-02-2024,MG Road,Flyover Road,53276,67,58,4,Fog
+19-01-2024,Jayanagar,Junction Road,19828,45,66,5,Clear
+28-01-2024,Jayanagar,Main Road,24199,24,85,0,Overcast
+07-01-2024,MG Road,Junction Road,50976,38,60,2,Fog
+25-01-2024,Indiranagar,Ring Road,69239,61,86,2,Fog
+04-01-2024,Whitefield,Junction Road,17674,28,54,1,Rainy
+29-02-2024,Jayanagar,Ring Road,34511,41,55,3,Overcast
+22-01-2024,MG Road,Bypass Road,44756,55,52,3,Overcast
+04-01-2024,Hebbal,Ring Road,64082,62,52,0,Clear
+02-01-2024,Koramangala,Main Road,64155,36,61,3,Clear
+14-02-2024,Whitefield,Flyover Road,49357,22,99,5,Clear
+05-02-2024,Whitefield,High Street,59526,29,81,3,Clear
+15-01-2024,Whitefield,Flyover Road,34681,33,74,5,Overcast
+24-01-2024,MG Road,Junction Road,23498,57,74,3,Rainy
+12-02-2024,Hebbal,High Street,29292,57,96,2,Rainy
+03-02-2024,Hebbal,High Street,52070,32,78,4,Overcast
+07-02-2024,Jayanagar,Junction Road,29941,43,81,0,Fog
+07-02-2024,Indiranagar,Flyover Road,18022,32,43,3,Overcast
+27-01-2024,Jayanagar,High Street,53478,45,65,0,Rainy
+05-02-2024,Indiranagar,Bypass Road,42702,43,84,5,Clear
+26-02-2024,Whitefield,Junction Road,21795,31,67,3,Clear
+24-02-2024,Whitefield,Bypass Road,29887,69,55,4,Rainy
+19-02-2024,Koramangala,Flyover Road,25189,66,67,2,Clear
+13-01-2024,Indiranagar,Ring Road,54410,52,79,2,Overcast
+07-01-2024,Whitefield,High Street,15402,29,96,0,Fog
+12-01-2024,Hebbal,Ring Road,48692,23,51,2,Overcast
+07-02-2024,MG Road,Junction Road,26193,27,71,1,Clear
+02-01-2024,Hebbal,Flyover Road,28613,28,46,4,Fog
+13-01-2024,Whitefield,Bypass Road,48921,32,74,5,Fog
+28-01-2024,Jayanagar,Bypass Road,39043,45,47,2,Clear
+11-02-2024,Jayanagar,Main Road,58390,43,41,5,Fog
